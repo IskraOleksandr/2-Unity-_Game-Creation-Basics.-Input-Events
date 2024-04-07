@@ -1,1 +1,3 @@
-# 2-Unity-_Game Creation Basics. Input Events
+# 2Unity-_Game Creation Basics. Input Events
+
+Создайте сцену для 3D шутера от первого лица с лабиринтом и движением персонажа. Настройте свет
